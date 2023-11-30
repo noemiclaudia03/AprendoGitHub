@@ -1,7 +1,1 @@
-GIT init creación del repositorio
-GIT add mueve los cambios del directorio
-de trabajo al area de ensayo
-GIT status estado de los combaios
-GIT commit acepta los cambios
-GIT reset deshace los cambios
-GIT log ve los cambios anterior
+print("new file")
